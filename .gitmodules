@@ -1,0 +1,3 @@
+[submodule "rails_hello"]
+	path = rails_hello
+	url = https://github.com/nataisan0521/rails_hello.git
